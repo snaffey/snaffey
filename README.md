@@ -6,7 +6,7 @@ Student
 
 I'm still learning programming languages, but I've already mastered a few.
 
-* 🌍  I'm based in Porugal
+* 🌍  I'm based in Portugal
 * 🖥️  See my portfolio at [Site do Tiago](http://snaffey.github.io/Site-do-tiago/)
 * ✉️  You can contact me at [ggtiago0santos@gmail.com](mailto:ggtiago0santos@gmail.com)
 
